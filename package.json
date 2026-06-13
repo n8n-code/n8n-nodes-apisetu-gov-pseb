@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-apisetu-gov-pseb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "PSEB 2018-20 Class V, VIII, X, XII certificates available in DigiLocker.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-apisetu-gov-pseb",
